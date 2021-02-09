@@ -1,10 +1,10 @@
-# Pre-work - *Tip Calculator*
+# Pre-work - *Name of App Here*
 
-**Tip Calculator** is a tip calculator application for iOS.
+**Name of your app** is a tip calculator application for iOS.
 
-Submitted by: **Makayla Riley**
+Submitted by: **Your Name Here**
 
-Time spent: **5** hours spent in total
+Time spent: **X** hours spent in total
 
 ## User Stories
 
@@ -28,17 +28,18 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/jqdlpGq.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Learning the various tools of Xcode in order to build an app for the first time
+Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2021] [Makayla Riley]
+    Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
